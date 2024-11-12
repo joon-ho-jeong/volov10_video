@@ -1,4 +1,4 @@
-# volov10_video
+# yolov10_video
 <b> 이번에 저는 전에 했던 버전인 yolov8 버전을 yolov10버전으로 바꿔서 youtube video를 객체 탐지를 하는 프로그램을 colab에서 실행시켜봤습니다.
 ``` bash
 # 필요한 패키지 설치
